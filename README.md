@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapniltayde09
 - 👀 I’m interested in Python, Data Analytics
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, PowerBI, Tableau, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me swapnieltaydde+github@gmail.com  
 - 😄 Pronouns: ...
