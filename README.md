@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MS Excel, Power BI, Tableau, HR Analytics, Data Analytics
 - 📫 How to reach me swapnieltaydde+github@gmail.com  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltayde09&layout=compact&theme=radical)
+[![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 swapniltayde09/swapniltayde09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
